@@ -1,4 +1,4 @@
-Apache Flagon
+Apache Flagon 
 --------------------------------------
 
 Flagon includes both UserALE, an instrumentation tool for web applications, and Distill, a python library for analyzing UserALE telemetry.
